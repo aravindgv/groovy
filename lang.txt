@@ -1,0 +1,4 @@
+sanskrit
+English
+Hindi
+Kannada
